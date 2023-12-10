@@ -1,0 +1,15 @@
+
+
+This is program was made by MrDyspo47 and it is able to make pins or passwords.This program also has the option to use or not use special characters in your passwords. 
+
+This program also consists of Shortcuts and these shortcuts allow for more effectiveness while using this program
+
+___Shortcuts___
+
+True : T or t 
+False : F or F
+Password : pwd
+
+
+
+Made By MrDyspo47 
